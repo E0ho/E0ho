@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
+[(김명진교수님) 권하진,이영호_재가 치매 환자 홈 케어 서비스 (1).pdf] <br>
+(https://github.com/user-attachments/files/16330029/_.1.pdf)
